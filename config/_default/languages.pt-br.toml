@@ -1,0 +1,27 @@
+languageCode = "pt-br"
+languageName = "Portuguese (Brazil)"
+displayName = "PT-BR"
+isoCode = "pt-BR"
+weight = 1
+rtl = false
+
+title = "Cássio Lamarck"
+description = "Desenvolvedor Fullstack"
+copyright = "&copy; 2023 Cássio Lamarck Silva Freitas <br> cassiolamarcksilvafreitas@gmail.com"
+
+dateFormat = "2 January 2006"
+
+[params]
+mainSections = ["projects", "blog"]
+
+[author]
+name = "Cássio Lamarck"
+image = "img/author.jpg"
+headline = "Desenvolvedor Fullstack"
+bio = "Construindo experiências, uma linha de cada vez."
+links = [
+  { twitter = "https://twitter.com/" },
+  { facebook = "https://facebook.com/" },
+  { linkedin = "https://linkedin.com/" },
+  { youtube = "https://youtube.com/" },
+]
