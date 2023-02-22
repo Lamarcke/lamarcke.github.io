@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cássio Lamarck</title>
+    <link>https://lamarcke.github.io/projects/</link>
+    <description>Recent content in Projects on Cássio Lamarck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2023 Cássio Lamarck Silva Freitas &lt;br&gt; cassiolamarcksilvafreitas@gmail.com</copyright>
+    <lastBuildDate>Tue, 21 Feb 2023 19:51:47 -0300</lastBuildDate><atom:link href="https://lamarcke.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projeto: Bibliomar</title>
+      <link>https://lamarcke.github.io/projects/bibliomar/</link>
+      <pubDate>Tue, 21 Feb 2023 19:51:47 -0300</pubDate>
+      
+      <guid>https://lamarcke.github.io/projects/bibliomar/</guid>
+      <description>O Bibliomar é um buscador de livros, artigos e outros tipos de texto.</description>
+    </item>
+    
+    <item>
+      <title>Projeto: grab-fork-from-libgen</title>
+      <link>https://lamarcke.github.io/projects/gffl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lamarcke.github.io/projects/gffl/</guid>
+      <description>Teste</description>
+    </item>
+    
+  </channel>
+</rss>

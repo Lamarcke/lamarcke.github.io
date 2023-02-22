@@ -54,7 +54,7 @@ Esse repositório mantém o back-end antigo do Bibliomar, que também é uma API
 
 O motivo para essa escolha foi que originalmente o Bibliomar era um projeto de scrapping. O banco de dados utilizado por essa API era o MongoDB, onde armazenamos exclusivamente os dados dos usuarios. A segurança de cripografia vem da biblioteca *passlib*. 
 
-Por muito tempo, esse servidor ficou hospedado em uma instância gratuita do [fly.io](https://fly.io/), em uma máquina com apenas 256MB de RAM. Todos os controladores trabalham de forma assíncrona, e a [biblioteca de scrapping]({{<ref "projects/grab-fork-from-libgen">}}) (responsável por pesquisar e retornar resultados) que desenvolvi também faz requisições e processamento dessa forma.
+Por muito tempo, esse servidor ficou hospedado em uma instância gratuita do [fly.io](https://fly.io/), em uma máquina com apenas 256MB de RAM. Todos os controladores trabalham de forma assíncrona, e a [biblioteca de scrapping]({{<ref "projects/gffl">}}) (responsável por pesquisar e retornar resultados) que desenvolvi também faz requisições e processamento dessa forma.
 
 O repositório desse back-end antigo pode ser visualizado [aqui](https://github.com/bibliomar/bibliomar-scrapper).
 

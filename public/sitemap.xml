@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://lamarcke.github.io/blog/</loc>
+            <lastmod>2023-02-21T19:51:47-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lamarcke.github.io/projects/</loc>
+            <lastmod>2023-02-21T19:51:47-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lamarcke.github.io/projects/bibliomar/</loc>
+            <lastmod>2023-02-21T19:51:47-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lamarcke.github.io/blog/wsl2-gui/</loc>
+            <lastmod>2023-02-21T19:51:47-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lamarcke.github.io/</loc>
+            <lastmod>2023-02-21T19:51:47-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lamarcke.github.io/blog/jetbrains-wsl2/</loc>
+            <lastmod>2023-02-21T19:51:37-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lamarcke.github.io/blog/dev-containers/</loc>
+            <lastmod>2023-02-21T19:51:24-03:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://lamarcke.github.io/projects/gffl/</loc>
+          </url>
+    
+  
+    
+  
+</urlset>

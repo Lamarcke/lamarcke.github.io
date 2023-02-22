@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Cássio Lamarck</title>
+    <link>https://lamarcke.github.io/blog/</link>
+    <description>Recent content in Blogs on Cássio Lamarck</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2023 Cássio Lamarck Silva Freitas &lt;br&gt; cassiolamarcksilvafreitas@gmail.com</copyright>
+    <lastBuildDate>Tue, 21 Feb 2023 19:51:47 -0300</lastBuildDate><atom:link href="https://lamarcke.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The easy guide to WSL with GUI apps (including full DEs)</title>
+      <link>https://lamarcke.github.io/blog/wsl2-gui/</link>
+      <pubDate>Tue, 21 Feb 2023 19:51:47 -0300</pubDate>
+      
+      <guid>https://lamarcke.github.io/blog/wsl2-gui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The complete guide to using WSL in Jetbrains IDEs</title>
+      <link>https://lamarcke.github.io/blog/jetbrains-wsl2/</link>
+      <pubDate>Tue, 21 Feb 2023 19:51:37 -0300</pubDate>
+      
+      <guid>https://lamarcke.github.io/blog/jetbrains-wsl2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Take your local development experience to the next level with Development Containers</title>
+      <link>https://lamarcke.github.io/blog/dev-containers/</link>
+      <pubDate>Tue, 21 Feb 2023 19:51:24 -0300</pubDate>
+      
+      <guid>https://lamarcke.github.io/blog/dev-containers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
